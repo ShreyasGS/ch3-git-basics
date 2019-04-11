@@ -1,4 +1,7 @@
 # Exercise 1
+
+My name is Shreyas 
+
 In this exercise you'll practice using git to clone and edit repositories, as will be required for later exercises.
 
 1. If you haven't already, configure your name and email address for your GitHub account using the terminal.
